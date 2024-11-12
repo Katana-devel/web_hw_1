@@ -1,7 +1,7 @@
 import datetime
 from Modul_1.Py_bot.AddressBook import AddressBook, load_data, save_data
 from Modul_1.Py_bot.Record import Record
-from Modul_1.Py_bot.main import ConsoleView
+from Modul_1.Py_bot.view import ConsoleView
 
 view = ConsoleView()
 
